@@ -1,6 +1,0 @@
-{
-    "private": true,
-    "dependencies": {
-        "commander": "^2.20.0"
-    }
-}
