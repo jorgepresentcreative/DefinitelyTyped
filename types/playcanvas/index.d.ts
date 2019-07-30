@@ -129,5 +129,7 @@
 /// <reference path="./engine/framework/components/sound/constants.d.ts" />
 /// <reference path="./engine/framework/components/sound/system.d.ts" />
 /// <reference path="./engine/framework/components/sound/slot.d.ts" />
+/// <reference path="./engine/framework/components/sprite/component.d.ts" />
+/// <reference path="./engine/framework/components/sprite/system.d.ts" />
 /// <reference path="./engine/framework/components/zone/component.d.ts" />
 /// <reference path="./engine/framework/components/zone/system.d.ts" />
