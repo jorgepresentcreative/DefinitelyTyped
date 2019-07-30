@@ -85,3 +85,12 @@ declare namespace pc {
     // }
     }
 }
+
+/**
+ * This is something added at 30/07/2019 at 13:21
+ * It will be updated at jorgepresentcreative/DefinitelyTyped
+ * and it should be reflected when I update the Galaxy Rougue project
+ * 
+ * Hi!! It worked!!
+ * 
+ */
